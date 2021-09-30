@@ -1,0 +1,14 @@
+{
+  "name": "Font-compression",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taozuidesongshu/Font-compression.git",
+  "author": "sunyuxuan <xysun@suntekcorps.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node font-compress.js"
+  },
+  "devDependencies": {
+    "fontmin": ""
+  }
+}
